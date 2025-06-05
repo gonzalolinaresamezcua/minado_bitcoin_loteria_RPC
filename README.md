@@ -1,5 +1,11 @@
 # Python Bitcoin Miner (RPC)
 
+---
+
+**Translations:** [Español](README.es.md) | [中文 (Simplified Chinese)](README.zh.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語 (Japanese)](README.ja.md) | [Italiano](README.it.md)
+
+---
+
 This script is a Python-based Bitcoin miner that interacts with a Bitcoin node via RPC (Remote Procedure Call). It's designed for educational purposes to demonstrate the process of Bitcoin mining, including fetching block templates, constructing coinbase transactions, calculating Merkle roots, and performing the hashing (proof-of-work) process.
 
 **Disclaimer:** This miner is intended for educational and testing purposes (e.g., on RegTest or Testnet). Due to the extremely high difficulty of the Bitcoin network, it is not feasible to mine Bitcoin profitably with this script on the mainnet.
